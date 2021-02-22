@@ -1,0 +1,17 @@
+LamportFastMutEx-COL-6 ReachabilityFireability
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA LamportFastMutEx-COL-6-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2020

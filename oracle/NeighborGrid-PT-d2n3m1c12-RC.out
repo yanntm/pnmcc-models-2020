@@ -1,0 +1,17 @@
+NeighborGrid-PT-d2n3m1c12 ReachabilityCardinality
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2020
+FORMULA NeighborGrid-PT-d2n3m1c12-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2020

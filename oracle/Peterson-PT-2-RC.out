@@ -1,0 +1,17 @@
+Peterson-PT-2 ReachabilityCardinality
+FORMULA Peterson-PT-2-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-12 TRUE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA Peterson-PT-2-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2020

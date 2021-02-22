@@ -1,0 +1,17 @@
+BusinessProcesses-PT-14 ReachabilityCardinality
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA BusinessProcesses-PT-14-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2020

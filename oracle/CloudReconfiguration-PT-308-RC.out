@@ -1,0 +1,17 @@
+CloudReconfiguration-PT-308 ReachabilityCardinality
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-11 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-308-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2020

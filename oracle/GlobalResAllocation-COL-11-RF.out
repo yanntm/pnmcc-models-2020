@@ -1,0 +1,17 @@
+GlobalResAllocation-COL-11 ReachabilityFireability
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-08 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA GlobalResAllocation-COL-11-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2020

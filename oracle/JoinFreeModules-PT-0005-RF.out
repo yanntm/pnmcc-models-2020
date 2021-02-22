@@ -1,0 +1,17 @@
+JoinFreeModules-PT-0005 ReachabilityFireability
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0005-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2020
