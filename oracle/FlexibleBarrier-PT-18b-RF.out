@@ -1,0 +1,17 @@
+FlexibleBarrier-PT-18b ReachabilityFireability
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-06 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-18b-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2020

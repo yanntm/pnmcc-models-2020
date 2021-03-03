@@ -1,0 +1,17 @@
+HexagonalGrid-PT-410 ReachabilityCardinality
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2020
+FORMULA HexagonalGrid-PT-410-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2020

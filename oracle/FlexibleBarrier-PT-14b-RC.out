@@ -1,0 +1,17 @@
+FlexibleBarrier-PT-14b ReachabilityCardinality
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-04 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-13 FALSE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2020
+FORMULA FlexibleBarrier-PT-14b-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2020

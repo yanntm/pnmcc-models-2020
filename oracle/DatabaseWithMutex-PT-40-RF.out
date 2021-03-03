@@ -1,0 +1,17 @@
+DatabaseWithMutex-PT-40 ReachabilityFireability
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-09 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2020
+FORMULA DatabaseWithMutex-PT-40-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2020

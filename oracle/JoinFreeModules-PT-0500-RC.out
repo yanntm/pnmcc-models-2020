@@ -1,0 +1,17 @@
+JoinFreeModules-PT-0500 ReachabilityCardinality
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-01 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-05 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-09 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-11 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-14 TRUE TECHNIQUES ORACLE2020
+FORMULA JoinFreeModules-PT-0500-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2020

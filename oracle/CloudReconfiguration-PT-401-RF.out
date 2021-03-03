@@ -1,0 +1,17 @@
+CloudReconfiguration-PT-401 ReachabilityFireability
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-03 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-04 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA CloudReconfiguration-PT-401-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2020

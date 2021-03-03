@@ -1,0 +1,17 @@
+TriangularGrid-PT-4022 ReachabilityCardinality
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-00 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-02 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-11 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA TriangularGrid-PT-4022-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2020

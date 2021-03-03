@@ -1,0 +1,17 @@
+ARMCacheCoherence-PT-none ReachabilityFireability
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-05 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-07 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-08 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-11 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-12 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-13 FALSE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-14 TRUE TECHNIQUES ORACLE2020
+FORMULA ARMCacheCoherence-PT-none-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2020

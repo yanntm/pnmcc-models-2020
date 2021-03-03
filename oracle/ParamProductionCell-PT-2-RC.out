@@ -1,0 +1,17 @@
+ParamProductionCell-PT-2 ReachabilityCardinality
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-01 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-03 TRUE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-06 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-07 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-08 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-10 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA ParamProductionCell-PT-2-ReachabilityCardinality-15 FALSE TECHNIQUES ORACLE2020

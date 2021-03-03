@@ -1,0 +1,17 @@
+PermAdmissibility-PT-10 ReachabilityFireability
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-00 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-01 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-02 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-04 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-06 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-07 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-08 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-10 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2020
+FORMULA PermAdmissibility-PT-10-ReachabilityFireability-15 TRUE TECHNIQUES ORACLE2020
