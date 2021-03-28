@@ -1,0 +1,17 @@
+DrinkVendingMachine-COL-24 ReachabilityCardinality
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-00 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-01 ? TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-02 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-03 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-04 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-05 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-06 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-07 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-08 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-09 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-10 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-11 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-12 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-13 TRUE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-14 FALSE TECHNIQUES ORACLE2020
+FORMULA DrinkVendingMachine-COL-24-ReachabilityCardinality-15 TRUE TECHNIQUES ORACLE2020

@@ -1,0 +1,17 @@
+DoubleExponent-PT-004 ReachabilityFireability
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-00 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-01 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-02 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-03 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-04 ? TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-05 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-06 ? TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-07 ? TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-08 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-09 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-10 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-11 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-12 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-13 TRUE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-14 FALSE TECHNIQUES ORACLE2020
+FORMULA DoubleExponent-PT-004-ReachabilityFireability-15 FALSE TECHNIQUES ORACLE2020
